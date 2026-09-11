@@ -1,0 +1,2 @@
+#!/bin/sh
+exec iconlibutils -l coreui-icons "$@"

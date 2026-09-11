@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: coreui-icons
+Source: https://github.com/coreui/coreui-icons.git
+
+Files: *
+Copyright: Upstream authors
+License: CC-BY-4.0
+
+Files: debian/*
+Copyright: 2026 Lenik <coreui-icons@bodz.net>
+License: CC-BY-4.0

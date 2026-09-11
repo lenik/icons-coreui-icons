@@ -1,0 +1,5 @@
+coreui-icons (1.0.0-1) unstable; urgency=medium
+
+  * Initial packaging with iconlibutils launcher and preview index.
+
+ -- Lenik <coreui-icons@bodz.net>  Fri, 11 Sep 2026 19:07:45 +0800
