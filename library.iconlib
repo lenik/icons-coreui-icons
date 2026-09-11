@@ -1,4 +1,4 @@
-# Installed by icons-coreui-icons — discovered as /usr/share/iconlibutils/library/coreui-icons/
+# Installed by icons-coreui-icons as /usr/share/iconlibutils/library/coreui-icons
 name=coreui-icons
 type=auto
 path=/usr/share/icons-coreui-icons
@@ -7,3 +7,5 @@ license=CC-BY-4.0
 homepage=https://icons.coreui.io/
 description=CoreUI Icons
 package=icons-coreui-icons
+icons_root=orig/svg
+faiss_index=/usr/share/icons-coreui-icons

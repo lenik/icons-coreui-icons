@@ -1,2 +1,2 @@
 #!/bin/sh
-exec iconlibutils -l coreui-icons "$@"
+exec iconlib -l coreui-icons "$@"

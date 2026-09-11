@@ -1,12 +1,12 @@
 Source: icons-coreui-icons
 Section: graphics
 Priority: optional
-Maintainer: Lenik <icons-coreui-icons@bodz.net>
+Maintainer: Lenik (谢继雷) <lenik@bodz.net>
 Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
 Standards-Version: 4.6.2
 Homepage: https://icons.coreui.io/
-Vcs-Browser: https://github.com/lenik/pkg-icons-coreui-icons
-Vcs-Git: https://github.com/lenik/pkg-icons-coreui-icons.git
+Vcs-Browser: https://github.com/lenik/icons-coreui-icons
+Vcs-Git: https://github.com/lenik/icons-coreui-icons.git
 Rules-Requires-Root: no
 
 Package: icons-coreui-icons
@@ -17,4 +17,4 @@ Description: CoreUI Icons
  CoreUI Icons
  .
  Provides icon assets under /usr/share/icons-coreui-icons, a preview index, and a
- launcher `icons-coreui-icons` (`iconlibutils -l coreui-icons`).
+ launcher `icons-coreui-icons` (`iconlib -l coreui-icons`).
