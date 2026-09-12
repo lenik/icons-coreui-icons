@@ -8,4 +8,4 @@ homepage=https://icons.coreui.io/
 description=CoreUI Icons
 package=icons-coreui-icons
 icons_root=orig/svg
-faiss_index=/usr/share/icons-coreui-icons
+faiss_index=faiss
